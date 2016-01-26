@@ -1,0 +1,27 @@
+{
+  "name": "watsondialog",
+  "version": "0.0.1",
+  "description": "A simple chatbot base on IBM Watson Dialog backend services",
+  "main": "watsonchatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchenibm/watsondialog.git"
+  },
+  "keywords": [
+    "Watson",
+    "Dialog",
+    "Chatbot"
+  ],
+  "author": "Billy Jian Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchenibm/watsondialog/issues"
+  },
+  "homepage": "https://github.com/jchenibm/watsondialog#readme",
+  "dependencies": {
+    "watson-developer-cloud": "^1.2.1"
+  }
+}
