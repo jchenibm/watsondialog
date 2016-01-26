@@ -7,6 +7,8 @@ Install and run:
 npm install
 npm start
 ```
+You may need to replace the ``username`` and ``password`` in the source code to your Bluemix service credentials to make sure you have a working demo.
+
 Sample chat session:
 
 ![Screenshot](./screenshot01.png)
