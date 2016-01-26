@@ -9,6 +9,6 @@ npm start
 ```
 Sample chat session:
 
-[![Screenshot](./screenshot01.png)]
+![Screenshot](./screenshot01.png)
 
 [service_url]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/dialog/
