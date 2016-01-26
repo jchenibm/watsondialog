@@ -4,6 +4,7 @@
   "description": "A simple chatbot base on IBM Watson Dialog backend services",
   "main": "watsonchatbot.js",
   "scripts": {
+    "start": "node watsonchatbot.js",  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
